@@ -52,7 +52,7 @@ Units in SI are coherent, and thus follow the underlying relationships. Applying
 
 $$\left[ \nu \right]_\text{u} = \frac{\left[ l \right]_\text{metre}}{\left[ t \right]_\text{second}}$$
 
-Therefore the quantity value $$\nu$$ has the SI unit $$\left[ \nu \right]_\text{u}$$, or $$\frac{\text{metre}}{\text{second}}$$. Every unit within SI has an associated symbol, and hence this unit for $$\left[ \nu \right]_\text{u}$$ is equivalently expressed in symbols as $$\frac{\text{m}}{\text{s}}$$, $$\text{m} / \text{s}$$ or $$\text{m}\ \text{s}^{-1}$$.
+Therefore the quantity value $$\nu$$ has the SI unit $$\left[ \nu \right]_\text{u}$$ or $$\frac{\text{metre}}{\text{second}}$$. Every unit within SI has an associated symbol, and hence this unit for $$\left[ \nu \right]_\text{u}$$ is equivalently expressed in symbols as $$\frac{\text{m}}{\text{s}}$$, $$\text{m} / \text{s}$$ or $$\text{m}\ \text{s}^{-1}$$.
 
 Since $$ \nu = \left\{ \nu \right\}\left[ \nu \right]$$, $$ l = \left\{ l \right\}\left[ l \right]$$, and $$ t = \left\{ t \right\}\left[ t \right]$$, these measured numerical values and units then determine the quantity value for $$\nu$$ as
 
@@ -76,7 +76,7 @@ or
 
 $$\frac{\left\{ \nu' \right\}\left[ \nu' \right]_{\text{km}\ \text{s}^{-1}}}{1 \times 10^{3}} = \left\{ \nu \right\}\left[ \nu \right]_{\text{m}\ \text{s}^{-1}}$$
 
-In both cases the fundamental relationship to the quantity value of $$\nu$$ remains coherent. However the _expression_ of that quantity value in the numerical value $$\left\{ \nu \right\}$$ and the unit value $$\left[ \nu \right]$$ changes as the unit values change.
+In both cases the fundamental relationship to the quantity value of $$\nu$$ remains coherent. However the _expression_ of that quantity value in the numerical value $$\left\{ \nu \right\}$$ (or $$\left\{ \nu' \right\}$$) and the unit value $$\left[ \nu \right]$$ (or $$\left[ \nu' \right]$$) changes as the unit values change.
 
 ## The 2018 Redefinition of the SI Units
 
